@@ -8,3 +8,6 @@ All courses I am doing to prepare this exam:
 
 ![alt](certificates/learning_fundamentals_gcp_bigdata.png " ")
 
+2. Modernizing Data Lakes and Data Warehouses with GCP
+
+![alt](certificates/gcp_modernizing_data_warehouses.png " ")
