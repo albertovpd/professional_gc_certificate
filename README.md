@@ -6,3 +6,5 @@ All courses I am doing to prepare this exam:
 
 1. Google Cloud Platform Big Data and Machine Learning Fundamentals
 
+![alt](certificates/learning_fundamentals_gcp_bigdata.png " ")
+
