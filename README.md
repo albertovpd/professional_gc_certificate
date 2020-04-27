@@ -14,3 +14,4 @@ All courses I am doing to prepare this exam:
 
 3. Building Batch Data Pipelines on GC.
 
+![alt](certificates/building_batch_data_pipelines_on_gcp.png " ")
