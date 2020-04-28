@@ -1,4 +1,4 @@
-
+- Notes i found interesting
 
 ![alt](pics/elt_tools.png " ")
 
