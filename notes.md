@@ -20,5 +20,9 @@
 
 ![alt](pics/pub-sub_pull-push.png " ")
 
+![alt](pics/cloud_dataflow_windowing.png " ")
+
+![alt](pics/bigtable_uses.png " ")
 
 
+![alt](pics/bigtable_performance.png " ")

@@ -2,7 +2,7 @@
 
 All courses I am doing to prepare this exam:
 
-- Data Engineering with Google Cloud Professional Certificate
+- Data Engineering with Google Cloud Professional Certificate (6 courses)
 
 1. Google Cloud Platform Big Data and Machine Learning Fundamentals.
 
