@@ -12,6 +12,10 @@ All courses I am doing to prepare this exam:
 
 ![alt](certificates/gcp_modernizing_data_warehouses.png " ")
 
-3. Building Batch Data Pipelines on GC.
+3. Building Batch Data Pipelines on GCP.
 
 ![alt](certificates/building_batch_data_pipelines_on_gcp.png " ")
+
+4.  Building Resilient Streaming Analytics Systems on GCP.
+
+![alt](certificates/Building_Resilient_Streaming_Analytics_Systems_GCP.png " ")
