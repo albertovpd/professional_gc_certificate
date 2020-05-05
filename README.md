@@ -1,7 +1,11 @@
-# professional_gc_certificate
 
 All courses I am doing to prepare this exam:
 
+- Professional Google Cloud Certificate (6 courses)
+
+--------------------------------
+
+**Professional Google Cloud Certificate**
 - Data Engineering with Google Cloud Professional Certificate (6 courses)
 
 1. Google Cloud Platform Big Data and Machine Learning Fundamentals.
@@ -19,3 +23,5 @@ All courses I am doing to prepare this exam:
 4.  Building Resilient Streaming Analytics Systems on GCP.
 
 ![alt](certificates/Building_Resilient_Streaming_Analytics_Systems_GCP.png " ")
+
+5. Smart Analytics, Machine Learning, and AI on GCP.
