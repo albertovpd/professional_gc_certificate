@@ -114,3 +114,52 @@ Denormalizing:
         5
 
 ![alt](pics/bigquery_improvements.png " ")
+
+# BigQuery in Notebooks
+
+A simple and smooth example
+
+- request
+
+        %%bigquery df
+        SELECT
+        departure_delay,
+        COUNT(1) AS num_flights,
+        APPROX_QUANTILES(arrival_delay, 10) AS arrival_delay_deciles
+        FROM
+        `bigquery-samples.airline_ontime_data.flights`
+        GROUP BY
+        departure_delay
+        HAVING
+        num_flights > 100
+        ORDER BY
+        departure_delay ASC
+
+
+- check percentiles (cool way)
+
+        import pandas as pd
+
+        percentiles = df['arrival_delay_deciles'].apply(pd.Series)
+        percentiles.rename(columns = lambda x : '{0}%'.format(x*10), inplace=True)
+        percentiles.head()
+
+- concat to previous df
+
+        df = pd.concat([df['departure_delay'], percentiles], axis=1)
+        df.head()
+
+- draw it
+
+        df.drop(labels=['0%', '100%'], axis=1, inplace=True)
+        df.plot(x='departure_delay', xlim=(-30,50), ylim=(-50,50));
+
+------------------------------------------
+
+# ML pipeline in Google Cloud Environment 
+
+![alt](pics/ml_pipeline.png " ")
+
+- ML specialization:
+https://www.coursera.org/specializations/machine-learning-tensorflow-gcp
+
