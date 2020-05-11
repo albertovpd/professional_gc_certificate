@@ -163,3 +163,25 @@ FROM
     SELECT
       'Park Lane , Hyde Park' AS start_station_name,
       CURRENT_TIMESTAMP() AS start_date) )
+
+-- To make batch predictions on a sample of 100 rows in the training set use the query:
+
+SELECT
+  *
+FROM
+  ML.PREDICT(MODEL bike_model.model_bucketized,
+    (
+    SELECT
+      start_station_name,
+      start_date
+    FROM
+      `bigquery-public-data`.london_bicycles.cycle_hire
+    LIMIT
+      100) )
+
+--
+-- Examine model weights
+-- 
+
+SELECT * FROM ML.WEIGHTS(MODEL bike_model.model_bucketized)
+
