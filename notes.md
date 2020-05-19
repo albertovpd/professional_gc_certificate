@@ -168,3 +168,5 @@ https://www.coursera.org/specializations/machine-learning-tensorflow-gcp
 - Infraestructure services
 
 ![alt](pics/infraestructure_services.png " ")
+
+![alt](pics/data_in.png " ")
