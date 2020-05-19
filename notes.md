@@ -163,3 +163,8 @@ A simple and smooth example
 - ML specialization:
 https://www.coursera.org/specializations/machine-learning-tensorflow-gcp
 
+# Tools
+
+- Infraestructure services
+
+![alt](pics/infraestructure_services.png " ")
