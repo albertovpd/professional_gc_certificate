@@ -176,3 +176,5 @@ https://www.coursera.org/specializations/machine-learning-tensorflow-gcp
 ![alt](pics/storage_options2.png " ")
 
 ![alt](pics/data_processing.png " ")
+
+
