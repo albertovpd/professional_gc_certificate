@@ -178,3 +178,18 @@ https://www.coursera.org/specializations/machine-learning-tensorflow-gcp
 ![alt](pics/data_processing.png " ")
 
 
+**- Resources to practice:** 
+
+- Practise the exam:
+
+    https://www.cloud.google.com/certification/practice-exam/data-engineer
+
+- More practising:
+
+    https://www.qwiklabs.com/catalog?keywords=&cloud%5B%5D=GCP&format%5B%5D=any&level%5B%5D=any&duration%5B%5D=any&price%5B%5D=any&modality%5B%5D=any&language%5B%5D=any
+
+
+![alt](pics/final_tips.png " ")
+
+
+![alt](pics/mrdogscience.jpeg)
