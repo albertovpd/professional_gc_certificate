@@ -32,4 +32,8 @@ https://cloud.google.com/certification/guides/data-engineer/
 
 6. Preparing for the Google Cloud Professional Data Engineer Exam.
 
-        in process
+![alt](certificates/preparing_for_gcprofessional_data_engineer_exam.png " ")
+
+Certification of compeltion of all courses:
+
+![alt](certificates/data_engineering_with_google_cloud.png " ")
