@@ -1,14 +1,15 @@
 
-All courses I am doing to prepare this exam:
+**Goal:** To pass the Professional Google Cloud Certificate exam.
 
-- Professional Google Cloud Certificate (6 courses)
+**Courses to sit for this exam:**
+
+- Google Cloud/Coursera: Data Engineering with Google Cloud Professional Certificate (6 courses) => https://cloud.google.com/certification/guides/data-engineer/
+
+- Udemy:    Google Cloud Professional Data Engineer => https://www.udemy.com/course/learn-gcp-become-a-certified-data-engineer-express-course
 
 --------------------------------
+--------------------------------
 
-**Professional Google Cloud Certificate**
-- Data Engineering with Google Cloud Professional Certificate (6 courses)
-
-https://cloud.google.com/certification/guides/data-engineer/
 
 1. Google Cloud Platform Big Data and Machine Learning Fundamentals.
 
@@ -34,6 +35,9 @@ https://cloud.google.com/certification/guides/data-engineer/
 
 ![alt](certificates/preparing_for_gcprofessional_data_engineer_exam.png " ")
 
-Certification of compeltion of all courses:
+- Certification of compeltion of the specialization courses:
 
 ![alt](certificates/data_engineering_with_google_cloud.png " ")
+
+7. Udemy:   Google Cloud Professional Data Engineer. 
+

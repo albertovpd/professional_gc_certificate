@@ -1,5 +1,9 @@
 - Notes i found interesting
 
+# Google Cloud
+
+--------------------------
+
 ![alt](pics/elt_tools.png " ")
 
 ![alt](pics/etl_pipeline_dataflow.png " ")
@@ -190,6 +194,22 @@ https://www.coursera.org/specializations/machine-learning-tensorflow-gcp
 
 
 ![alt](pics/final_tips.png " ")
+
+---------------------------
+
+# Udemy:   Google Cloud Professional Data Engineer. 
+
+----------------------------
+
+
+
+
+
+
+
+
+
+
 
 
 ![alt](pics/mrdogscience.jpeg)
