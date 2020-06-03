@@ -201,6 +201,14 @@ https://www.coursera.org/specializations/machine-learning-tensorflow-gcp
 
 ----------------------------
 
+![alt](pics/storage_options3.png " ")
+
+
+- If in bigquery we want to make a join with all tables with similar names (for instance table1, table2, table3...) we can make it quick with 
+![alt](pics/bigquery_wilcard1.png " ")
+
+- Cloud datalab importating
+![alt](pics/cloud_datalab.png " ")
 
 
 
@@ -209,6 +217,8 @@ https://www.coursera.org/specializations/machine-learning-tensorflow-gcp
 
 
 
+-------------------------------------
+-------------------------------------
 
 
 
