@@ -5,7 +5,9 @@
 
 - Google Cloud/Coursera: Data Engineering with Google Cloud Professional Certificate (6 courses) => https://cloud.google.com/certification/guides/data-engineer/
 
-- Udemy:    Google Cloud Professional Data Engineer => https://www.udemy.com/course/learn-gcp-become-a-certified-data-engineer-express-course
+- Udemy:    Google Cloud Professional Data Engineer => https://www.udemy.com/course/learn-gcp-become-a-certified-data-engineer-express-course **(periodically redo this quizzes)**
+
+- Udemy:    Ultimate Google Cloud Certifications: All in one Bundle (4). => https://www.udemy.com/course/google-certified-architect-developer-engineer-data-devops/learn/lecture/15679938#overview
 
 --------------------------------
 --------------------------------
@@ -39,5 +41,8 @@
 
 ![alt](certificates/data_engineering_with_google_cloud.png " ")
 
-7. Udemy:   Google Cloud Professional Data Engineer. 
+7. Google Cloud Professional Data Engineer. 
 
+![alt](certificates/udemy_210.png)
+
+8. Ultimate Google Cloud Certifications: All in one Bundle (4).

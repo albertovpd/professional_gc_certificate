@@ -199,6 +199,12 @@ https://www.coursera.org/specializations/machine-learning-tensorflow-gcp
 
 # Udemy:   Google Cloud Professional Data Engineer. 
 
+- **Periodically redo this course.** 
+
+https://www.udemy.com/course/learn-gcp-become-a-certified-data-engineer-express-course 
+
+
+
 ----------------------------
 
 ![alt](pics/storage_options3.png " ")
@@ -210,6 +216,8 @@ https://www.coursera.org/specializations/machine-learning-tensorflow-gcp
 - Cloud datalab importating
 ![alt](pics/cloud_datalab.png " ")
 
+
+# Ultimate Google Cloud Certifications: All in one Bundle (4).
 
 
 
