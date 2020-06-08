@@ -216,13 +216,18 @@ https://www.udemy.com/course/learn-gcp-become-a-certified-data-engineer-express-
 - Cloud datalab importating
 ![alt](pics/cloud_datalab.png " ")
 
+-------------------
 
 # Ultimate Google Cloud Certifications: All in one Bundle (4).
 
 
+![alt](pics/udemy_cloud_services.png )
 
+![alt](pics/udemy2.png)
 
+![alt](pics/udemy3.png)
 
+- cloud sdk well explained
 
 
 -------------------------------------
@@ -231,3 +236,4 @@ https://www.udemy.com/course/learn-gcp-become-a-certified-data-engineer-express-
 
 
 ![alt](pics/mrdogscience.jpeg)
+
