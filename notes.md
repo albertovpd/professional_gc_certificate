@@ -229,6 +229,22 @@ https://www.udemy.com/course/learn-gcp-become-a-certified-data-engineer-express-
 
 - cloud sdk well explained
 
+# Cloud Dataflow
+
+- apache beam
+
+![alt](pics/pipeline_dataflow.png)
+
+![alt](pics/dataproc_vs_dataflow.png)
+
+![alt](pics/quotas_dataflow.png)
+
+
+![alt](pics/dataflow_quotas_2.png)
+
+
+
+
 
 -------------------------------------
 -------------------------------------
@@ -236,4 +252,3 @@ https://www.udemy.com/course/learn-gcp-become-a-certified-data-engineer-express-
 
 
 ![alt](pics/mrdogscience.jpeg)
-
