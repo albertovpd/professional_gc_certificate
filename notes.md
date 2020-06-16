@@ -242,6 +242,8 @@ https://www.udemy.com/course/learn-gcp-become-a-certified-data-engineer-express-
 
 ![alt](pics/dataflow_quotas_2.png)
 
+![alt](pics/billing.png)
+
 
 
 
