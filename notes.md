@@ -246,8 +246,11 @@ https://www.udemy.com/course/learn-gcp-become-a-certified-data-engineer-express-
 
 
 
+---------------------------
 
+# Linux Academy: Google Cloud Certified Professional Data Engineer.
 
+![alt](pics/linux_prerequisites.png)
 -------------------------------------
 -------------------------------------
 
