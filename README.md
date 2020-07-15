@@ -7,8 +7,9 @@
 
 - Udemy:    Google Cloud Professional Data Engineer => https://www.udemy.com/course/learn-gcp-become-a-certified-data-engineer-express-course **(periodically redo this quizzes)**
 
-- Udemy:    Ultimate Google Cloud Certifications: All in one Bundle (4). => https://www.udemy.com/course/google-certified-architect-developer-engineer-data-devops/learn/lecture/15679938#overview
+- Udemy:    Ultimate Google Cloud Certifications: All in one Bundle (4) => https://www.udemy.com/course/google-certified-architect-developer-engineer-data-devops/learn/lecture/15679938#overview
 
+- Linux Academy: Google Cloud Certified Professional Data Engineer => https://linuxacademy.com/course/google-cloud-certified-professional-data-engineer/
 --------------------------------
 --------------------------------
 
@@ -46,3 +47,7 @@
 ![alt](certificates/udemy_210.png)
 
 8. Ultimate Google Cloud Certifications: All in one Bundle (4).
+
+    *Pending*
+
+9. Linux Academy: Google Cloud Certified Professional Data Engineer.
