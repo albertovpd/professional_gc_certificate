@@ -256,7 +256,7 @@ Managing databases:
 
 ![alt](pics/databases1.png)
 
-
+![alt](pics/datalakes.png)
 -------------------------------------
 -------------------------------------
 
