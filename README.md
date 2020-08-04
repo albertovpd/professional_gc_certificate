@@ -51,3 +51,5 @@
     *Pending*
 
 9. Linux Academy: Google Cloud Certified Professional Data Engineer.
+
+![alt](certificates/linux_academy.png)
