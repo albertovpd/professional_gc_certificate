@@ -10,6 +10,11 @@
 - Udemy:    Ultimate Google Cloud Certifications: All in one Bundle (4) => https://www.udemy.com/course/google-certified-architect-developer-engineer-data-devops/learn/lecture/15679938#overview
 
 - Linux Academy: Google Cloud Certified Professional Data Engineer => https://linuxacademy.com/course/google-cloud-certified-professional-data-engineer/
+
+- Testprep Training: Professional Data Engineer Exams => https://www.testpreptraining.com/index.php?route=account/test&test_id=427
+
+- Data Engineering on GCP PDF (by ml874) => https://github.com/ml874/Data-Engineering-on-GCP-Cheatsheet/blob/master/data_engineering_on_GCP.pdf
+
 --------------------------------
 --------------------------------
 
