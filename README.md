@@ -15,6 +15,8 @@
 
 - Data Engineering on GCP PDF (by ml874) => https://github.com/ml874/Data-Engineering-on-GCP-Cheatsheet/blob/master/data_engineering_on_GCP.pdf
 
+- Udemy: 2 exams => https://www.udemy.com/course/google-professional-data-engineer-certification-x/
+
 --------------------------------
 --------------------------------
 
